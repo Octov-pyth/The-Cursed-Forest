@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+
+test.py
+minggu6soal1.py
+minggu6soal2.py
+minggu6soal3.py
+aitestgame2d.py
+test.py
+test2.py
+test3.py
